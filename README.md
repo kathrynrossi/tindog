@@ -1,2 +1,2 @@
 # tindog
-tingdog
+https://kathrynrossi.github.io/tindog
